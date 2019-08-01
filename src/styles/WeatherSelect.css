@@ -1,0 +1,37 @@
+body {
+    background: url("http://supamaforex.com/wp-content/uploads/2017/12/off-white-textured-background-1920x10803.jpg")
+}
+#mainWrapper {
+    width: 1300px;
+    height: 600px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#mainWrapper h1{
+    font-size: 80px;
+    font-family: "Futura";
+    margin-bottom: 20px;
+}
+#dropdown {
+    width: 500px;
+    height: 50px;
+    line-height: 25px;
+}
+#mainForm {
+    display: flex;
+    flex-direction: column;
+}
+#checkout {
+    margin-top: 10px;
+    height: 40px;
+    background-color: rgb(55, 55, 190);
+    color: white;
+}
+#weatherCard {
+    margin-top: 25px;
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+}

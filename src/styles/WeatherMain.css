@@ -1,0 +1,8 @@
+.weatherContents {
+    display: flex;
+    flex-wrap: wrap;
+}
+.ui.card {
+    width: 140px;
+    margin: 10px;
+}
